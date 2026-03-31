@@ -32,8 +32,8 @@ This app allows users to open images, apply multiple filters, and save the edite
 ## Installation & Dependencies 💻
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ImageEditorApp.git
-   cd ImageEditorApp
+   git clone https://github.com/ashmeet003/Image_Editor_App
+   cd Image_Editor_App
    
 2. Install dependencies:
    ```bash
